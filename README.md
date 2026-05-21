@@ -12,6 +12,10 @@ Repository ini berisi kode dan skema simulasi untuk mengontrol kecepatan Motor D
 
 ## 📷 Skema Sirkuit (Tinkercad)
 <img width="1180" height="638" alt="image" src="https://github.com/user-attachments/assets/4e44fc88-90b9-40de-afc9-4685bccaefcd" />
+<img width="1911" height="462" alt="image" src="https://github.com/user-attachments/assets/87937fbc-cb82-49e9-8776-4a82b9276819" />
+<img width="874" height="707" alt="image" src="https://github.com/user-attachments/assets/baa13baf-9b13-4fb8-a68d-5562afaa2288" />
+
+
 
 
 ## 🚀 Cara Kerja
